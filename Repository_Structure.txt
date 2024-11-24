@@ -1,0 +1,16 @@
+ChromeXEditor/
+│
+├── index.html              # Main application file
+├── README.txt             # Project documentation
+├── LICENSE               # License information
+│
+├── assets/              # Static assets
+│   ├── css/            # Custom stylesheets
+│   ├── js/             # JavaScript files
+│   └── img/            # Images and icons
+│
+├── examples/           # Example extensions
+│   └── demo/          # Demo extension
+│
+└── docs/              # Additional documentation
+    └── api.md         # API documentation
